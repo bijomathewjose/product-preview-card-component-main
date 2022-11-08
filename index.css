@@ -69,7 +69,7 @@ body {
     letter-spacing: 0.425em;
 }
 
-h1,
+#name,
 #discount {
     font-family: 'Fraunces', serif;
     font-weight: 700;
@@ -88,7 +88,9 @@ h1,
 
 #actual {
     font-size: 13px;
+    font-weight:500px;
     text-decoration-line: line-through;
+    color: hsl(228, 12%, 48%);
 }
 
 #cart {
@@ -119,7 +121,7 @@ h1,
         height: 100%;
     }
     #type,
-    h1,
+    #name,
     #desc,
     #prices,
     #cart {
