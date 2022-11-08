@@ -20,8 +20,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [Github](https://github.com/bijomathewjose/qr-code-component-main)
-- Live Site URL: [Code Published](https://bijomathewjose.github.io/qr-code-component-main/)
+- Solution URL: [Github](https://github.com/bijomathewjose/product-preview-card-component-main)
+- Live Site URL: [Code Published](https://bijomathewjose.github.io/product-preview-card-component-main/)
 
 ## My process
 
