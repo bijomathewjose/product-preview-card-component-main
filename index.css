@@ -99,6 +99,9 @@ h1,
     padding: 15px;
     border-radius: 8px;
 }
+#cart:active{
+    background-color:hsla(156, 42%, 18%, 1);
+}
 
 #cart-text {
     font-weight: 700;
